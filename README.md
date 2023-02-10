@@ -1,3 +1,5 @@
+<img src="https://cdn-icons-png.flaticon.com/512/5578/5578703.png" alt="In Progress">
+
 <h1>Cash Flow Application</h1>
 
 <p>A simple and intuitive application to manage your personal finances. Keep track of your monthly cash flow, add income and expenses and see the financial balance of the month.</p>
